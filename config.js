@@ -11,7 +11,7 @@
 window.PM = window.PM || {};
 
 PM.config = {
-  SUPABASE_URL: 'https://ujhtauwmtgsguqvrgehc.supabase.co/rest/v1/',
+  SUPABASE_URL: 'https://ujhtauwmtgsguqvrgehc.supabase.co',
   SUPABASE_KEY: 'sb_publishable_WZaa0qi3X_yRtFdlQ4Prxg_sYusVkQQ',
 
   STORAGE_BUCKET: 'shop-assets',        // created by supabase/schema.sql
